@@ -1,3 +1,3 @@
 # liujinggeng
-one repository
+one 
 this is my first git
